@@ -84,9 +84,5 @@ int main()
             default:
                 std::cout << "No valid option, enter 1, 2 or 3!\n\n";
         }
-
-
     }
-    
-
 }
